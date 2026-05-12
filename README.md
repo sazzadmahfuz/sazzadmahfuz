@@ -125,8 +125,7 @@ Drag-and-drop network topology builder with Dijkstra shortest-path routing, ping
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sazzadmahfuz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=7B61FF&text_color=E6EDF3" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadmahfuz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=E6EDF3" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sazzadmahfuz&theme=tokyonight" width="100%" />
 </div>
 
 ---
