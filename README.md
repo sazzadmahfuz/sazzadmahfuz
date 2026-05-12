@@ -1,7 +1,6 @@
-## Hi there 👋
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Sazzad+Ibna+Mahfuz;ICT+%26+Robotics+Engineer;Universal+Robots+Certified;CCNA+%7C+Robocorp+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Sazzad+Ibna+Mahfuz;ICT+%26+Robotics+Engineer;Universal+Robots+Certified;CCNA+%7C+Robocorp+Python" alt="Typing SVG" />
 
 <br/>
 
