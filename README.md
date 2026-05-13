@@ -68,26 +68,26 @@ OpenCV segmentation pipeline: RGB channels, CLAHE + Otsu thresholding, morpholog
 <tr>
 <td width="50%">
 
-### 🗄️ [Student Course Registration DB](https://github.com/sazzadmahfuz/database-design-project)
+### 🗄️ [Student Course Registration DB](https://github.com/sazzadmahfuz/database-design-system)
 Full relational database: 7-entity ER diagram (Crow's Foot), 3NF normalisation, MySQL DDL/DML with JOINs, GROUP BY, subqueries, and an interactive SQL console demo.
 
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F29111?style=flat)
 ![3NF](https://img.shields.io/badge/3NF_Normalised-00FFD1?style=flat)
 
-**[▶ Live Demo](https://sazzadmahfuz.github.io/database-design)**
+**[▶ Live Demo](https://sazzadmahfuz.github.io/database-design-system/)**
 
 </td>
 <td width="50%">
 
-### 🤖 [Employee Attrition ML](https://github.com/sazzadmahfuz/ml-employee-attrition)
+### 🤖 [Employee Attrition ML](https://github.com/sazzadmahfuz/ml-employee-attrition-dashboard)
 KNN vs Gaussian Naive Bayes on IBM HR dataset (1470 employees). K-optimisation loop, confusion matrices, StandardScaler, and model comparison dashboard. Best: 85% accuracy at k=7.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![KNN](https://img.shields.io/badge/KNN_&_NaiveBayes-7B61FF?style=flat)
 
-**[▶ Live Demo](https://sazzadmahfuz.github.io/ml-attrition)**
+**[▶ Live Demo](https://sazzadmahfuz.github.io/ml-employee-attrition-dashboard/)**
 
 </td>
 </tr>
