@@ -54,14 +54,14 @@ Beckhoff EtherCAT PLC with TwinCAT state machine controlling a Dobot MG400 robot
 </td>
 <td width="50%">
 
-### 👁️ [Machine Vision Pipeline](https://github.com/sazzadmahfuz/Machine-Vision)
+### 👁️ [Machine Vision Pipeline](https://github.com/sazzadmahfuz/machine-vision-opencv)
 OpenCV segmentation pipeline: RGB channels, CLAHE + Otsu thresholding, morphology, connected-component detection, and camera–robot homography mapping for Dobot MG400.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![RoboDK](https://img.shields.io/badge/RoboDK-FF6B35?style=flat)
 
-**[▶ Live Demo](https://sazzadmahfuz.github.io/machine-vision)**
+**[▶ Live Demo](https://sazzadmahfuz.github.io/machine-vision-opencv/)**
 
 </td>
 </tr>
