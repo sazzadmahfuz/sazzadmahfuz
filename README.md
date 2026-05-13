@@ -38,6 +38,60 @@ class SazzadIbnaMahfuz:
 ## 🚀 Featured Projects
 
 <table>
+
+<tr>
+<td width="50%">
+
+### 🏭 [PLC Control Systems](https://github.com/sazzadmahfuz/control-systems-plc)
+Beckhoff EtherCAT PLC with TwinCAT state machine controlling a Dobot MG400 robot arm pick-and-place, LM35 temperature supervision, and refrigerator control VISU.
+
+![TwinCAT](https://img.shields.io/badge/TwinCAT_3-003087?style=flat)
+![IEC61131](https://img.shields.io/badge/IEC_61131--3-00AEEF?style=flat)
+![Beckhoff](https://img.shields.io/badge/Beckhoff_EtherCAT-E2001A?style=flat&logoColor=white)
+
+**[▶ Live Demo](https://sazzadmahfuz.github.io/control-systems-plc)**
+
+</td>
+<td width="50%">
+
+### 👁️ [Machine Vision Pipeline](https://github.com/sazzadmahfuz/Machine-Vision)
+OpenCV segmentation pipeline: RGB channels, CLAHE + Otsu thresholding, morphology, connected-component detection, and camera–robot homography mapping for Dobot MG400.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![RoboDK](https://img.shields.io/badge/RoboDK-FF6B35?style=flat)
+
+**[▶ Live Demo](https://sazzadmahfuz.github.io/machine-vision)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ [Student Course Registration DB](https://github.com/sazzadmahfuz/database-design-project)
+Full relational database: 7-entity ER diagram (Crow's Foot), 3NF normalisation, MySQL DDL/DML with JOINs, GROUP BY, subqueries, and an interactive SQL console demo.
+
+![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F29111?style=flat)
+![3NF](https://img.shields.io/badge/3NF_Normalised-00FFD1?style=flat)
+
+**[▶ Live Demo](https://sazzadmahfuz.github.io/database-design)**
+
+</td>
+<td width="50%">
+
+### 🤖 [Employee Attrition ML](https://github.com/sazzadmahfuz/ml-employee-attrition)
+KNN vs Gaussian Naive Bayes on IBM HR dataset (1470 employees). K-optimisation loop, confusion matrices, StandardScaler, and model comparison dashboard. Best: 85% accuracy at k=7.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN_&_NaiveBayes-7B61FF?style=flat)
+
+**[▶ Live Demo](https://sazzadmahfuz.github.io/ml-attrition)**
+
+</td>
+</tr>
+
 <tr>
 <td width="50%">
 
@@ -140,6 +194,9 @@ Drag-and-drop network topology builder with Dijkstra shortest-path routing, ping
 | 🌐 CCNA: Introduction to Networks | Cisco / HAMK | 2025 |
 | 🐍 Python Automation | Robocorp | 2024 |
 | 🛡️ Occupational Safety Card | Finland | Valid to 2030 |
+| 🎓 Data Science with Python | Simplilearn SkillUp | Nov 2023 |
+| 🏗️ Software Architecture | Udemy | Nov 2023 |
+
 
 ---
 
