@@ -81,37 +81,6 @@ Structured Text on a Beckhoff IPC with EtherCAT I/O: door light, TON door alarm 
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-**Robotics and Automation**
-
-![Dobot](https://img.shields.io/badge/Dobot_M1_Pro_%7C_MG400-1E88E5?style=for-the-badge)
-![Universal Robots](https://img.shields.io/badge/Universal_Robots-00AEEF?style=for-the-badge)
-![Yaskawa](https://img.shields.io/badge/Yaskawa_Welding-0055A4?style=for-the-badge)
-![RoboDK](https://img.shields.io/badge/RoboDK-FF6B35?style=for-the-badge)
-![TwinCAT](https://img.shields.io/badge/TwinCAT_3-003087?style=for-the-badge)
-
-**Vision and Software**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=for-the-badge)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Systems and Networking**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
