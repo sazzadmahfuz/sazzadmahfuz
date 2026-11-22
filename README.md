@@ -40,7 +40,7 @@ class SazzadIbnaMahfuz:
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/sazzadmahfuz/gift-box-packing-cell"><img src="media/cell.jpg" width="420" alt="Gift box packing cell"></a>
+<a href="https://github.com/sazzadmahfuz/gift-box-packing-cell"><img src="media/cell.jpg" width="100%" alt="Gift box packing cell"></a>
 
 ### [Gift Box Packing Cell](https://github.com/sazzadmahfuz/gift-box-packing-cell)
 
@@ -60,15 +60,15 @@ Dobot M1 Pro SCARA, two conveyors and a USB camera that pack gift boxes: one car
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/sazzadmahfuz/control-systems-plc"><img src="media/plc.jpg" width="420" alt="Beckhoff PLC training panel"></a>
+<a href="https://github.com/sazzadmahfuz/control-systems-plc"><img src="media/plc.jpg" width="100%" alt="Beckhoff PLC training panel"></a>
 
 ### [Refrigerator Control on a Beckhoff PLC](https://github.com/sazzadmahfuz/control-systems-plc)
 
 Structured Text on a Beckhoff IPC with EtherCAT I/O: door light, TON door alarm with latch and reset, compressor control with hysteresis. LM35 sensor on an EL3074 analog input, TwinCAT VISU HMI and Scope logging. Follow-up lab: PLC handshake with a Dobot MG400.
 
-| I/O | Alarm delay | Hysteresis | Sensor |
+| Terminals | Alarm | Hysteresis | Sensor |
 |:-:|:-:|:-:|:-:|
-| 3 EtherCAT terminals | 10 s | ±1.0 °C | LM35 |
+| 3 | 10 s | ±1.0 °C | LM35 |
 
 ![TwinCAT](https://img.shields.io/badge/TwinCAT_3-003087?style=flat)
 ![IEC61131](https://img.shields.io/badge/IEC_61131--3-00AEEF?style=flat)
