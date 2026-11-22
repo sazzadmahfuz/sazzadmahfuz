@@ -29,7 +29,7 @@ class SazzadIbnaMahfuz:
         "Python control software with safety interlocks and run logging",
     ]
 
-    languages = {"Bengali": "native", "English": "C2", "Finnish": "learning"}
+    languages = {"Bengali": "native", "English": "C1", "Finnish": "learning"}
 ```
 
 ---
@@ -78,14 +78,6 @@ Structured Text on a Beckhoff IPC with EtherCAT I/O: door light, TON door alarm 
 </td>
 </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sazzadmahfuz&theme=tokyonight" width="100%" />
-</div>
 
 ---
 
