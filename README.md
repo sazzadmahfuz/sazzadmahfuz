@@ -40,7 +40,7 @@ class SazzadIbnaMahfuz:
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/sazzadmahfuz/gift-box-packing-cell"><img src="https://github.com/sazzadmahfuz/gift-box-packing-cell/raw/main/media/cell.jpg" alt="Gift box packing cell"></a>
+<a href="https://github.com/sazzadmahfuz/gift-box-packing-cell"><img src="media/cell.jpg" alt="Gift box packing cell"></a>
 
 ### [Gift Box Packing Cell](https://github.com/sazzadmahfuz/gift-box-packing-cell)
 
@@ -60,7 +60,7 @@ Dobot M1 Pro SCARA, two conveyors and a USB camera that pack gift boxes: one car
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/sazzadmahfuz/control-systems-plc"><img src="https://github.com/sazzadmahfuz/control-systems-plc/raw/main/Pictures/beckhoff-io-panel.jpeg" alt="Beckhoff PLC training panel"></a>
+<a href="https://github.com/sazzadmahfuz/control-systems-plc"><img src="media/plc.jpg" alt="Beckhoff PLC training panel"></a>
 
 ### [Refrigerator Control on a Beckhoff PLC](https://github.com/sazzadmahfuz/control-systems-plc)
 
