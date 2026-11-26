@@ -46,9 +46,9 @@ class SazzadIbnaMahfuz:
 
 Dobot M1 Pro SCARA, two conveyors and a USB camera that pack gift boxes: one card, two candies, then the lid. YOLO11n detection, homography calibration, RoboDK simulation and a Python cell controller with a safety gate and operator console. Team of three, ongoing.
 
-| Fastest box | Calibration | YOLO P / R | Tests |
-|:-:|:-:|:-:|:-:|
-| 64.4 s | 0.92 mm | 0.99 / 1.00 | 549 |
+| Fastest box | Calibration | YOLO P / R |
+|:-:|:-:|:-:|
+| 64.4 s | 0.92 mm | 0.99 / 1.00 |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![YOLO11](https://img.shields.io/badge/YOLO11-111F68?style=flat)
